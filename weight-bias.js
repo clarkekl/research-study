@@ -10,7 +10,7 @@ define(['pipAPI', 'https://clarkekl.github.io/research-study/weight-bias-tasks.j
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'Fat.jpg'}
+    		    {image : 'fat.jpeg'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -23,7 +23,7 @@ define(['pipAPI', 'https://clarkekl.github.io/research-study/weight-bias-tasks.j
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'Thin.jpg'}			], 
+    		    {image : 'thin.jpeg'}			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
