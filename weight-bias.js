@@ -10,7 +10,7 @@ define(['pipAPI', 'https://clarkekl.github.io/research-study/weight-bias-tasks.j
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'black1.jpg'}
+    		    {image : 'Fat.jpg'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -23,13 +23,13 @@ define(['pipAPI', 'https://clarkekl.github.io/research-study/weight-bias-tasks.j
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'yf1.jpg'}			], 
+    		    {image : 'Thin.jpg'}			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://baranan.github.io/minno-tasks/images/'
+			image : 'https://clarkekl.github.io/research-study/'
 		} 
 	});
 });
