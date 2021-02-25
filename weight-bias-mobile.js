@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://clarkekl.github.io/research-study/weight-bias-tasks.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://clarkekl.github.io/research-study/weight-bias-tasks-mobile.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
